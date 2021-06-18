@@ -1,9 +1,7 @@
 ---
 title: "Python"
-permalink: /python/
-layout: single
+permalink: /categories/python/
+layout : category
+author_profile: true
+taxonomy : python
 ---
-
-## kiryeong.github.io 블로그
-
-이 블로그는 남기령의 코딩 공부 일지 겸 일상을 기록하는 블로그이다. 

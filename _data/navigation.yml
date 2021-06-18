@@ -2,14 +2,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Python"
-    url : /python/
-  - title: "Deep Learning"
-    url : /deeplearning/
-  - title: "HTML & CSS"
-    url : /htmlcss/
-  - title: "Javascript"
-    url : /javascript/
+  - title: "Project"
+    url : /project/
+  - title: "Categories"
+    url : /categories/
+  - title: "Tags"
+    url : /tags/
+
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
