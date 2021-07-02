@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "Project"
     url : /project/
-  - title: "Categories"
+  - title: "Coding Category"
     url : /categories/
-  - title: "Tags"
+  - title: "Coding Tag"
     url : /tags/
 
   
