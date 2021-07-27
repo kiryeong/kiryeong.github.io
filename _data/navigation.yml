@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Project"
-    url : /project/
-  - title: "Coding Category"
+  - title: "Category"
     url : /categories/
   - title: "Coding Tag"
     url : /tags/
+  - title: "Yearly"
+    url: /year-archive/
+  - title: "Monthly"
+    url : /month-archive/
 
   
   # - title: "About"
